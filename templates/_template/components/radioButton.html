@@ -1,0 +1,35 @@
+<div class="custom-system-form-field">
+    <label for="radioButtonLabel">Label (optional)</label>
+    <input id="radioButtonLabel" type="text" data-key="label" value="{{label}}" />
+</div>
+
+<div class="custom-system-form-field">
+    <label for="radioButtonSize">Size</label>
+    <select id="radioButtonSize" data-key="size">
+        {{#select size}}
+        <option value="full-size">Auto</option>
+        <option value="x-small">Tiny</option>
+        <option value="small">Smaller</option>
+        <option value="m-small">Small</option>
+        <option value="medium">Medium</option>
+        <option value="m-large">Large</option>
+        <option value="large">Larger</option>
+        <option value="x-large">Gigantic</option>
+        {{/select}}
+    </select>
+</div>
+
+<div class="custom-system-form-field">
+    <label for="radioButtonGroup">Group - will be used as key in Formulas</label>
+    <input id="radioButtonGroup" type="text" data-key="group" value="{{group}}" />
+</div>
+
+<div class="custom-system-form-field">
+    <label for="radioButtonValue">Value</label>
+    <input id="radioButtonValue" type="text" data-key="value" value="{{value}}" />
+</div>
+
+<div class="custom-system-form-field">
+    <label for="radioButtonDefaultChecked">Checked by default</label>
+    <input id="radioButtonDefaultChecked" type="checkbox" data-key="defaultChecked" {{checked defaultChecked}} />
+</div>

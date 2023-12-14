@@ -1,0 +1,55 @@
+{
+    "id": "sine-requie",
+    "title": "Sine Requie",
+    "description": "Sistema base per Sine Requie",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "authors": [
+        {
+            "name": "Heyrold",
+            "discord": "Heyrold#4406"
+        }
+    ],
+    "relationships": {
+        "requires": [
+            {
+                "id": "_chatcommands",
+                "type": "module",
+                "manifest": "https://gitlab.com/woodentavern/foundryvtt-chat-command-lib/-/raw/v2.0.1/src/module.json",
+                "compatibility": {
+                    "minimum": "2.0.1",
+                    "verified": "2.0.1"
+                }
+            }
+        ]
+    },
+    "esmodules": ["module/custom-system-builder.js"],
+    "scripts": ["lib/math.js", "lib/deep-diff.min.js", "scripts/chat-enhancements.js"],
+    "styles": [
+        "css/actor/character-display.css",
+        "css/actor/template-display.css",
+        "css/chat-message.css",
+        "css/attributes-editor.css",
+        "css/component-editor.css",
+        "css/user-input-editor.css",
+        "css/export-display.css",
+        "css/modifiers-editor.css"
+    ],
+    "packs": [
+        {
+          "name": "tarocchi",
+          "label": "Carte Tarocchi",
+          "system": "sine-requie",
+          "path": "./packs/tarocchi",
+          "type": "card"
+        }
+      ],    
+    "gridDistance": 2,
+    "gridUnits": "m",
+    "url": "https://github.com/heyrold73/sine-requie",
+    "manifest": "https://github.com/heyrold73/sine-requie/releases/latest/download/module.json",
+    "download": "https://github.com/heyrold73/sine-requie/releases/latest/download/module.zip"
+}
