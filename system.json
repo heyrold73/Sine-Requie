@@ -37,16 +37,7 @@
         "css/user-input-editor.css",
         "css/export-display.css",
         "css/modifiers-editor.css"
-    ],
-    "packs": [
-        {
-          "name": "tarocchi",
-          "label": "Carte Tarocchi",
-          "system": "sine-requie",
-          "path": "./packs/tarocchi",
-          "type": "card"
-        }
-      ],    
+    ],    
     "gridDistance": 2,
     "gridUnits": "m",
     "url": "https://github.com/heyrold73/sine-requie",
