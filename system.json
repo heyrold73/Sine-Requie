@@ -50,6 +50,6 @@
     "gridDistance": 2,
     "gridUnits": "m",
     "url": "https://github.com/heyrold73/sine-requie",
-    "manifest": "https://github.com/heyrold73/sine-requie/releases/latest/download/module.json",
-    "download": "https://github.com/heyrold73/sine-requie/releases/latest/download/module.zip"
+    "manifest": "https://github.com/heyrold73/sine-requie/releases/latest/download/system.json",
+    "download": "https://github.com/heyrold73/sine-requie/releases/latest/download/system.zip"
 }
