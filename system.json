@@ -2,7 +2,7 @@
     "id": "sine-requie",
     "title": "Sine Requie",
     "description": "Sistema base per Sine Requie",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
