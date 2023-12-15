@@ -1,0 +1,76 @@
+.custom-system-block-title {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.custom-system-block-title > * {
+    margin-left: 8px;
+}
+
+.custom-tableini1
+{
+	width:50; 
+	border:0;
+		background-color: transparent;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    border-bottom-width: 2px;
+    border-bottom-color: #737373;
+    margin-left: 0px;
+	
+}
+
+.custom-system-rich-editor-button-float {
+    /*display: transparent!important;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background: transparent!important;
+    border: 0px solid var(--color-border-dark-1)!important;
+    border-radius: 4px;
+    padding: 1px 2px;
+    box-shadow: 0 0 1px var(--color-shadow-dark);*/
+}
+
+.custom-system-template-select > a {
+    background:transparent!important;
+    border: 0px solid var(--color-border-dark-1)!important;
+    border-radius: 4px;
+    padding: 2px;
+    box-shadow: 0 0 1px var(--color-shadow-dark);
+    margin-left: 0px!important;
+}
+
+.custom-system-field > label {
+  /*  margin-right: 0px!important;*/
+margin-right: 3px!important;
+}
+.custom-system-field-small {
+    width: 5px!important;
+}
+table {
+ height: 95px!important;
+ border:hidden!important;
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-family: calibi!important;
+    min-width: 400px!important;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.custom-system-template-select > select {
+    width: auto !important;
+    min-width: 10px!important;
+    margin-left: 20px!important;
+}
+
+custom-system-component-contents Tab1 custom-system-component-root tab active div table {
+    width: 100px!important;}
