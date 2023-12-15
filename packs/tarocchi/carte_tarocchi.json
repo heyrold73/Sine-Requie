@@ -1,0 +1,668 @@
+{
+  "name": "Arcani Maggiori",
+  "type": "deck",
+  "description": "A standard 52-card deck of playing cards.",
+  "img": "worlds/rine-requie/cards/20231029_181634.jpg",
+  "cards": [
+    {
+      "name": "Il bagatto",
+      "faces": [
+        {
+          "name": "Il-bagatto",
+          "img": "worlds/rine-requie/cards/1-il-bagatto.jpg",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 1,
+      "suit": "",
+      "_id": "ZZhu4MNhJTUdi53e",
+      "description": "",
+      "face": 0,
+      "drawn": false,
+      "sort": 49,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "origin": "ye4k4c8ILOXk4prz",
+      "system": {}
+    },
+    {
+      "name": "Il Giudizio",
+      "faces": [
+        {
+          "name": "Il Giudizio",
+          "img": "worlds/rine-requie/cards/il%20giudizio.jpg",
+          "text": ""
+        }
+      ],
+      "width": 5,
+      "height": 6,
+      "rotation": 0,
+      "type": "base",
+      "value": 20,
+      "suit": "",
+      "_id": "zMLccDnuHD0FobvF",
+      "description": "",
+      "face": 0,
+      "drawn": false,
+      "sort": 48,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "origin": "ye4k4c8ILOXk4prz",
+      "system": {}
+    },
+    {
+      "name": "La Papessa",
+      "faces": [
+        {
+          "name": "La Papessa",
+          "img": "worlds/rine-requie/cards/2-La%20papessa.JPG",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 2,
+      "suit": "",
+      "_id": "ftrlvsE7VVGcWd9W",
+      "description": "",
+      "face": 0,
+      "drawn": false,
+      "sort": 26,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": null
+      },
+      "origin": "ye4k4c8ILOXk4prz",
+      "system": {}
+    },
+    {
+      "name": "Imperatore",
+      "faces": [
+        {
+          "name": "L'imperatrice",
+          "img": "worlds/rine-requie/cards/3-Imperatrice.jpeg",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 3,
+      "suit": "",
+      "_id": "93Uis6tNVYRoGxMD",
+      "description": "",
+      "face": 0,
+      "drawn": false,
+      "sort": 45,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "origin": "ye4k4c8ILOXk4prz",
+      "system": {}
+    },
+    {
+      "name": "Five of Clubs",
+      "faces": [
+        {
+          "name": "Il Papa",
+          "img": "worlds/rine-requie/cards/5-Il%20papa.jpg",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 5,
+      "suit": "",
+      "_id": "yNmIpXJnu9sFOQYT",
+      "description": "",
+      "face": 0,
+      "drawn": false,
+      "sort": 17,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "origin": "ye4k4c8ILOXk4prz",
+      "system": {}
+    },
+    {
+      "name": "L'Innamorato",
+      "faces": [
+        {
+          "name": "L'innamorato",
+          "img": "worlds/rine-requie/cards/6-L%27innamorato.jpg",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 6,
+      "suit": "",
+      "_id": "IJCvPzFKJ9qamcvi",
+      "description": "",
+      "face": 0,
+      "drawn": false,
+      "sort": 10,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "origin": "ye4k4c8ILOXk4prz",
+      "system": {}
+    },
+    {
+      "name": "Seven of Clubs",
+      "faces": [
+        {
+          "name": "L'imperatore",
+          "img": "worlds/rine-requie/cards/4-Imperatore.jpg",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 4,
+      "suit": "",
+      "_id": "i8l8y8JPa6ijlQNb",
+      "description": "",
+      "face": 0,
+      "drawn": false,
+      "sort": 28,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "origin": "ye4k4c8ILOXk4prz",
+      "system": {}
+    },
+    {
+      "name": "Il Carro",
+      "faces": [
+        {
+          "name": "Il Carro",
+          "img": "worlds/rine-requie/cards/7-il%20carro.jpg",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 7,
+      "suit": "",
+      "_id": "mN3VsWMBdQW7lEAu",
+      "description": "",
+      "face": 0,
+      "drawn": false,
+      "sort": 11,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "origin": "ye4k4c8ILOXk4prz",
+      "system": {}
+    },
+    {
+      "name": "Eremita",
+      "faces": [
+        {
+          "name": "Eremita",
+          "img": "worlds/rine-requie/cards/9-%20eremita.jpg",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 9,
+      "suit": "",
+      "_id": "vXRVWiJH4RdJMP8E",
+      "description": "",
+      "face": 0,
+      "drawn": false,
+      "sort": 7,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "origin": "ye4k4c8ILOXk4prz",
+      "system": {}
+    },
+    {
+      "name": "Ruota della Fortuna",
+      "faces": [
+        {
+          "name": "Ruota della Fortuna",
+          "img": "worlds/rine-requie/cards/10-Ruota%20della%20Fortuna.jpg",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 10,
+      "suit": "",
+      "_id": "Vch57BLsHKHrFFbT",
+      "description": "",
+      "face": 0,
+      "drawn": false,
+      "sort": 27,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "origin": "ye4k4c8ILOXk4prz",
+      "system": {}
+    },
+    {
+      "name": "La Forza",
+      "faces": [
+        {
+          "name": "La Forza",
+          "img": "worlds/rine-requie/cards/11-La%20forza.jpg",
+          "text": ""
+        }
+      ],
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "type": "base",
+      "value": 11,
+      "suit": "",
+      "_id": "7WlxQXEMG6DqVyxp",
+      "description": "",
+      "face": 0,
+      "drawn": false,
+      "sort": 34,
+      "flags": {},
+      "back": {
+        "name": "",
+        "text": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "origin": "ye4k4c8ILOXk4prz",
+      "system": {}
+    },
+    {
+      "faces": [
+        {
+          "name": "L'Appeso",
+          "img": "worlds/rine-requie/cards/12-l%27appeso.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "L'Appeso",
+      "_id": "4eCIR36iWnbg9eXt",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 12,
+      "back": {
+        "text": "",
+        "name": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "drawn": true,
+      "origin": null,
+      "width": 5,
+      "height": 6,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "La Morte",
+          "img": "worlds/rine-requie/cards/13-la-morte.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "La Morte",
+      "_id": "ry7ZC4k3uF4KVAnv",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 13,
+      "back": {
+        "text": "",
+        "name": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "drawn": false,
+      "origin": null,
+      "width": 5,
+      "height": 6,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "La Temperanza",
+          "img": "worlds/rine-requie/cards/14-la%20temperanza.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "La Temperanza",
+      "_id": "Hv5aAYD79KeUP68e",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 14,
+      "back": {
+        "text": "",
+        "name": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "drawn": false,
+      "origin": null,
+      "width": 5,
+      "height": 6,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "Il Diavolo",
+          "img": "worlds/rine-requie/cards/15-%20il%20diavolo.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Il Diavolo",
+      "_id": "mG2oggGay27kE7YV",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 15,
+      "back": {
+        "text": "",
+        "name": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "drawn": false,
+      "origin": null,
+      "width": 5,
+      "height": 6,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "La Torre",
+          "img": "worlds/rine-requie/cards/16%20-La%20torre.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "La Torre",
+      "_id": "QCS1tuGnMDiMZpu2",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 16,
+      "back": {
+        "text": "",
+        "name": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "drawn": false,
+      "origin": null,
+      "width": 5,
+      "height": 6,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "Le Stelle",
+          "img": "worlds/rine-requie/cards/17-le%20stelle.jpeg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Le Stelle",
+      "_id": "YX3cFDwmeql4lHkR",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 17,
+      "back": {
+        "text": "",
+        "name": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "drawn": false,
+      "origin": null,
+      "width": 5,
+      "height": 6,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "La Luna",
+          "img": "worlds/rine-requie/cards/18-la%20luna.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "La Luna",
+      "_id": "SlZjwzk1mjqtY1oI",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 18,
+      "back": {
+        "text": "",
+        "name": "",
+        "img": "worlds/rine-requie/cards/18-la%20luna.jpg"
+      },
+      "drawn": false,
+      "origin": null,
+      "width": 5,
+      "height": 6,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "Il Sole",
+          "img": "worlds/rine-requie/cards/19-minori.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Il Sole",
+      "_id": "CkelxhHEAKW71IoS",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 19,
+      "back": {
+        "text": "",
+        "name": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "drawn": false,
+      "origin": null,
+      "width": 5,
+      "height": 6,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "Il Mondo",
+          "img": "worlds/rine-requie/cards/21-Il%20mondo.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Il Mondo",
+      "_id": "iRQX2KzyZkpdzWVI",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 21,
+      "back": {
+        "text": "",
+        "name": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "drawn": false,
+      "origin": null,
+      "width": 5,
+      "height": 6,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "",
+          "img": "worlds/rine-requie/cards/8-La%20giustizia.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "La Giustizia",
+      "_id": "7gtcpHvhQ2x28oou",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 8,
+      "back": {
+        "text": "",
+        "name": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "drawn": false,
+      "origin": null,
+      "width": 5,
+      "height": 6,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "suit": ""
+    },
+    {
+      "faces": [
+        {
+          "name": "Il matto",
+          "img": "worlds/rine-requie/cards/0-il%20matto.jpg",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "name": "Il Matto",
+      "_id": "7bcF9A3GBG12qBZm",
+      "description": "",
+      "type": "base",
+      "system": {},
+      "value": 0,
+      "back": {
+        "text": "",
+        "name": "",
+        "img": "worlds/rine-requie/cards/20231029_181634.jpg"
+      },
+      "drawn": false,
+      "origin": null,
+      "width": 5,
+      "height": 6,
+      "rotation": 0,
+      "sort": 0,
+      "flags": {},
+      "suit": ""
+    }
+  ],
+  "width": 3,
+  "height": 4,
+  "rotation": 0,
+  "displayCount": true,
+  "flags": {
+    "exportSource": {
+      "world": "rine-requie",
+      "system": "custom-system-builder",
+      "coreVersion": "11.315",
+      "systemVersion": "3.0.0"
+    }
+  },
+  "system": {},
+  "folder": "OIXw6fbPreQXdghV",
+  "_stats": {
+    "systemId": "custom-system-builder",
+    "systemVersion": "3.0.0",
+    "coreVersion": "11.315",
+    "createdTime": 1702334627987,
+    "modifiedTime": 1702338614308,
+    "lastModifiedBy": "AHVSqhpIKQO67bft"
+  }
+}
