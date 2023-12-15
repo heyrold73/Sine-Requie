@@ -1,0 +1,86 @@
+<div class="custom-system-form-field">
+    <label for="modifierHeadDisplay"> Display column names </label>
+    <input type="checkbox" id="modifierHeadDisplay" data-key="headDisplay" {{checked headDisplay}} />
+</div>
+
+<div class="custom-system-form-field">
+    <label for="modifierInfoDisplay"> Display info icon </label>
+    <input type="checkbox" id="modifierInfoDisplay" data-key="infoDisplay" {{checked infoDisplay}} />
+</div>
+
+<div class="custom-system-form-field">
+    <label for="modifierHead"> Make column names bold </label>
+    <input type="checkbox" id="modifierHead" data-key="head" {{checked head}} />
+</div>
+
+<div class="custom-system-form-field"><h3>Filter modifier groups</h3></div>
+<div class="custom-system-form-field"><h4>Select groups (leave empty if all):</h4></div>
+<div class="custom-system-form-field">
+    <div
+        style="
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-content: space-between;
+            justify-content: space-between;
+            align-items: center;
+        "
+    >
+        {{#each availableGroups}}
+        <span>
+            <input
+                type="checkbox"
+                id="{{this.group}}"
+                value="{{this.group}}"
+                name="groupFilter"
+                {{checked
+                this.checked}}
+            />
+            <label for="{{this.group}}">{{this.group}}</label>
+        </span>
+        {{/each}}
+    </div>
+</div>
+
+<div class="custom-system-form-field">
+    <label for="modifierSelectionLabel">Selection column name</label>
+    <input id="modifierSelectionLabel" type="text" data-key="selectionLabel" value="{{selectionLabel}}" />
+</div>
+
+<div class="custom-system-form-field">
+    <label for="modifierSelectionAlign">Selection column alignment</label>
+    <select id="modifierSelectionAlign" data-key="selectionAlign">
+        {{#select selectionAlign}}
+        <option value="left">Left</option>
+        <option value="center">Center</option>
+        <option value="right">Right</option>
+        {{/select}}
+    </select>
+</div>
+
+<div class="custom-system-form-field">
+    <label for="modifierGroupLabel">Group column name</label>
+    <input id="modifierGroupLabel" type="text" data-key="groupLabel" value="{{groupLabel}}" />
+</div>
+
+<div class="custom-system-form-field">
+    <label for="modifierGroupAlign">Group column alignment</label>
+    <select id="modifierGroupAlign" data-key="groupAlign">
+        {{#select groupAlign}}
+        <option value="left">Left</option>
+        <option value="center">Center</option>
+        <option value="right">Right</option>
+        {{/select}}
+    </select>
+</div>
+
+<div class="custom-system-form-field"></div>
+<div class="custom-system-form-field"></div>
+<div class="custom-system-form-field">
+    <label for="groupFilterFormula">Advanced - Group filter formula</label>
+    <input id="groupFilterFormula" type="text" data-key="groupFilterFormula" value="{{groupFilterFormula}}" />
+    <p class="custom-system-for-field-tooltip">
+        Formula without ${}$. The formula should return the groups names separated with commas (,). If set, overrides
+        the checkbox selection.
+    </h5>
+</div>
