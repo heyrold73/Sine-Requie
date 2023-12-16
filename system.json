@@ -18,7 +18,7 @@
             {
                 "id": "_chatcommands",
                 "type": "module",
-                "manifest": "https://gitlab.com/woodentavern/foundryvtt-chat-command-lib/-/raw/v2.0.1/src/module.json",
+                "manifest": "https://gitlab.com/woodentavern/foundryvtt-chat-command-lib/-/raw/master/src/module.json",
                 "compatibility": {
                     "minimum": "2.0.1",
                     "verified": "2.0.1"
